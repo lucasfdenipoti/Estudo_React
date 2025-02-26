@@ -25,6 +25,7 @@ function App() {
     <div className="container">
       <img src={logo} className="App-logo" alt="logo" />
       <h1>Lista de Tarefas</h1>
+      
       <input
         type="text"
         value={novaTarefa}
